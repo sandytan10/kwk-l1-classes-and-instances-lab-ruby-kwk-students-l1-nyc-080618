@@ -1,3 +1,3 @@
 # dog.rb
 class Dog
-  dog = 
+  dog = cool
