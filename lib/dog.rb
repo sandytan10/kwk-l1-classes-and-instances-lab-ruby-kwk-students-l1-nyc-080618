@@ -1,4 +1,4 @@
 # dog.rb
 class Dog
-  dog = 
+  dog = lassie 
 end 
